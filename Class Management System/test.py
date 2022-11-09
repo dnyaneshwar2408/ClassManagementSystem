@@ -1,0 +1,6 @@
+
+
+from dashboard import *
+
+
+onclickdashboard()
